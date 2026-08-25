@@ -1,24 +1,42 @@
 # Project Overview
 A collection of data analytics projects completed during my internship.
 
-## Project 1: Data Cleaning
-### Project Overview
-This Project was completed as part of my Data Analytics Internship with Decode Labs.
-The objective of this project was to clean and prepare a raw dataset for further analysis and visualization.
-### Tools Used
--Microsoft Excel
--Power Query
-### Data Cleaning Process
-The following cleaning activities were performed:
-- Removed duplicate records
-- Handled blank and missing values
-- Corrected inconsistent formatting
-- Removed unnecessary spaces
-- Corrected inconsistent data entries
-- Checked the dataset for errors and inconsistencies
-  ### Final Outcome
-  The dataset was cleaned and transformed into a more consistent and structured format, making it suitable for further analysis and visualizaton.
-  ### Key Learning
-  This project strengthened my understanding of the importance of data quality and how proper data cleaning helps ensure accurate and reliable analysis.
-
+## About the Projects
+These projects were completed as part of my Data Analysis Internship with Decode Lab.
+The projects demonstrate my practical experience in data cleaning, exploratory data analysis, Excel, and data storytelling.
+## Projects
+### Project 1: Data Cleaning
+The first project focused on cleaning and preparing an ecommerce dataset for analysis.
+Key data cleaning activities included:
+- Removing duplicate records
+- Handling blank and missing values
+- Correcting inconsistent formatting
+- Removing unnecessary spaces
+- Standardizing data entries
+- Preparing the dataset for further analysis
+  ### Project 2: Exploratory Data Analysis
+  The second project involved analyzing the cleaned dataset using Microsoft Excel to identify trends, patterns, distribution, and potential business insights.
+Key areas analyzed included:
+- Order performance
+-  Product performance
+-  Customer analysis
+-  Referral sources
+-  Payment methods
+-  Order-status distribution
+-  Coupon usage
+-  Trends over time
+-  Outlier detection
+  ## Tools Used
+- Microsoft Excel
+- Power Query
+  ## Key Skills Demonstrated
+- Data Cleaning
+- Exploring Data Analysis
+- Descriptive Statistics
+- Excel Formulas
+- Outlier Detection
+- Data Storytelling
+- Insight Generation
+  ## Key Takeaway
+  These projects have helped me develop a stronger understanding of how raw data can be cleaned, explored, analyzed, and transformed into meaningful insights that can support data-driven decision-making.
 
