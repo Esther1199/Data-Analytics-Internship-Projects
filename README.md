@@ -26,15 +26,33 @@ Key areas analyzed included:
 -  Coupon usage
 -  Trends over time
 -  Outlier detection
-  ## Tools Used
+  ## Project 3: SQL Data Analysis
+  The third project involved analyzing the e-commerce dataset using SQL Server to extract useful information and identify patterns in the order data.
+  Key areas analyzed included:
+- Total number of orders
+- Distinct values in the dataset
+- Total and average order values
+- Payment method distribution
+- Order status distribution
+- Coupon code usage
+## Tools used:
 - Microsoft Excel
-- Power Query
+- Power query
+- SQL Server
+- SQL Server Management Studio (SSMS)
   ## Key Skills Demonstrated
 - Data Cleaning
 - Exploring Data Analysis
 - Descriptive Statistics
 - Excel Formulas
 - Outlier Detection
+- SQL querying
+- Aggregate functions
+- COUNT and COUNT DISTINCT
+- SUM and AVG
+- GROUP BY
+- ORDER BY
+- Data analysis and interpretation
 - Data Storytelling
 - Insight Generation
   ## Key Takeaway
